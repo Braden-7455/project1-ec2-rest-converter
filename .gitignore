@@ -1,0 +1,16 @@
+/node_modules
+npm-debug.log*
+yarn-*.log
+logs
+*.log
+*.out
+*.err
+.env
+*.pem
+*.key
+*.crt
+.DS_Store
+.vscode/
+.idea/
+# LaTeX artifacts
+*.aux *.toc *.out *.lof *.lot *.fls *.fdb_latexmk *.synctex.gz
